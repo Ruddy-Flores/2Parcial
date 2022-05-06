@@ -1,10 +1,11 @@
 import React from 'react'
-import '../Componentes/Rojo.css'
+import img from '../assets/Vector.png'
+import '../Componentes/ColorRojo.css'
 
 function ColorRojo() {
   return (
     <div className='ColorRojo'>
-    
+      <div> Agenda/topic </div>
     </div>
     
   )

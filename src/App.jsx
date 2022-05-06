@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import {Rojo } from './Componentes/Rojo.jsx'
+import {ColorRojo } from './Componentes/ColorRojo.jsx'
 /*import {DarkWork } from './Componentes/DarkWork.jsx'
 import {ColorWork } from './Componentes/ColorWork.jsx'
 import {DarkPlay } from './Componentes/DarkPlay.jsx'
@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div className="App">
-      <Rojo/>
+      <ColorRojo/>
 
     </div>
   )
