@@ -1,0 +1,13 @@
+.ColorExercise{
+    background-color: #EB5757;
+    height: 67px;
+    width: 364px;
+    margin: auto;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    background-image: url(../assets/Vector.png);
+    background-repeat: no-repeat;
+    background-position: 95%;
+    margin-top: 0px;
+    align-items: center;
+}
